@@ -1,35 +1,38 @@
 # Atividade
 "Agora que você já sabe das possibilidades de automação usando o PL/SQL, selecione um tema na lista abaixo referente a cidades inteligentes, faça uma análise, examine e descubra atividades podem ser automatizadas por meio da execução de um pacote ou trigger ou procedimento ou função de banco de dados.
 
-Temas de cidades inteligentes
+Temas de cidades inteligentes:
 
-1. Gerenciamento de Tráfego:
-
+- Gerenciamento de Tráfego:
 Controle de semáforos inteligentes baseado em fluxo de tráfego e condições climáticas.
 Monitoramento e análise de padrões de tráfego para otimização de rotas e redução de congestionamentos.
 Detecção e notificação automática de acidentes de trânsito para serviços de emergência.
-2. Gestão de Resíduos:
 
+- Gestão de Resíduos:
 Rastreamento de caminhões de coleta de lixo em tempo real para otimização de rotas.
 Agendamento automático de coleta com base na capacidade dos recipientes de lixo.
 Notificação aos moradores sobre dias de coleta e separação adequada de resíduos.
-3. Monitoramento Ambiental:
 
+- Monitoramento Ambiental:
 Sistema de alerta precoce para desastres naturais, como inundações, incêndios florestais e terremotos.
 Monitoramento da qualidade do ar e da água em tempo real.
 Controle de irrigação inteligente em parques e áreas verdes com base nas condições climáticas.
-4. Segurança Pública:
 
+- Segurança Pública:
 Análise de dados para previsão de crimes e distribuição eficiente de recursos policiais.
 Sistema de vigilância por vídeo com reconhecimento facial para identificação de suspeitos.
 Integração de sistemas de alarme e notificação em caso de emergências, como incêndios ou invasões.
-Com um tema selecionado, será necessário:
 
-- Criar uma modelagem de dados (MER) que represente o tema selecionado. Essa modelagem deve conter de 4 a 5 tabelas que representam o funcionamento de parte do tema (tabela como usuário, login, cadastro não serão aceitas), gere os códigos/scripts em PL/SQL para criação das entidades/tabelas do modelo;
+- Com um tema selecionado, será necessário:
 
-- Com a modelagem pronta, localize quatro atividades que tenham potencial para automação, crie um arquivo PDF com as quatro atividades e qual o motivo para que elas sejam automatizadas;
+  - Criar uma modelagem de dados (MER) que represente o tema selecionado. Essa modelagem deve conter de 4 a 5 tabelas que representam o funcionamento de parte do tema (tabela como usuário, login, cadastro não serão aceitas), gere os códigos/scripts em PL/SQL para criação das entidades/tabelas do modelo;
 
-- Crie os códigos em PL/SQL que façam essa automação. Ou seja, se você propôs a automação para disparar um e-mail em algum evento de alteração de dados, então, deve criar o código PL/SQL para isso."
+  - Com a modelagem pronta, localize quatro atividades que tenham potencial para automação, crie um arquivo PDF com as quatro atividades e qual o motivo para que elas sejam automatizadas;
+
+  - Crie os códigos em PL/SQL que façam essa automação. Ou seja, se você propôs a automação para disparar um e-mail em algum evento de alteração de dados, então, deve criar o código PL/SQL para isso."
+
+# MODELO DE ENTIDADE E RELACIONAMENTO
+![image](https://github.com/pedroferrarezzo/Gere-Residuo-PL-SQL-Atividade-Fiap/assets/124400471/3165dcc1-db56-4f6e-afe7-e87d3def2896)
 
 # LISTA DE AUTOMAÇÕES
 - PROCEDURE que abre uma agenda para coleta de lixo em um bairro;
