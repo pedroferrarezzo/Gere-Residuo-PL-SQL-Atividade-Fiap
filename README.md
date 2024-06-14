@@ -1,4 +1,6 @@
 # Atividade
+**Tema escolhido:** Gestão de Resíduos - Notificação aos moradores sobre dias de coleta e separação adequada de resíduos.
+
 "Agora que você já sabe das possibilidades de automação usando o PL/SQL, selecione um tema na lista abaixo referente a cidades inteligentes, faça uma análise, examine e descubra atividades podem ser automatizadas por meio da execução de um pacote ou trigger ou procedimento ou função de banco de dados.
 
 Temas de cidades inteligentes:
